@@ -1,6 +1,9 @@
 # rust-tauri1.0
 
-[Rust Tauri 1.0 - Quick Intro - Rust Desktop App](https://youtu.be/kRoGYgAuZQE)
+[Rust Tauri 1.0 - Quick Intro - Rust Desktop App | Jeremy Chone](https://youtu.be/kRoGYgAuZQE)
+<br>(https://youtu.be/kRoGYgAuZQE)
+
+
 
 Rust Programming for Desktop Application with Tauri 1.0. This is a quick introduction of the Tauri basics.
 

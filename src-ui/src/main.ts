@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", async function() {
 
     // counter button click
     counterButtonEl.addEventListener("pointerup", async function() {
-        const result = await invoke("add_count", { num: 1 })
+        const result = await invoke("add_count", { num: 3 })
         counterResultEl.textContent = result;
     });
 

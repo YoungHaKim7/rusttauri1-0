@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", async function() {
-    document.body.textContent = "Hello from main.ts";
+    // document.body.textContent = "Hello from main.ts";
 })
